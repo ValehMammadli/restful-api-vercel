@@ -1,19 +1,88 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-        },
-        {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        }
-    ]
+  "cities": [
+    {
+      "cityName": "Baku",
+      "country": "Azerbaijan",
+      "date": "2023-12-12T14:58:14.934Z",
+      "emoji": "🇦🇿",
+      "notes": "cdcd",
+      "position": {
+        "lat": "40.44361077274749",
+        "lng": "49.83398437500001"
+      },
+      "id": 98443224
+    },
+    {
+      "cityName": "Qobustan",
+      "country": "Azerbaijan",
+      "date": "2023-12-21T07:48:42.147Z",
+      "emoji": "🇦🇿",
+      "notes": "sacs",
+      "position": {
+        "lat": "40.406800582598564",
+        "lng": "48.82324218750001"
+      },
+      "id": 98443226
+    },
+    {
+      "cityName": "Cerralbo",
+      "country": "Spain",
+      "date": "2023-12-21T11:51:43.206Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.91034641245374",
+        "lng": "-6.568157399933791"
+      },
+      "id": 98443227
+    },
+    {
+      "cityName": "Hontoria de Valdearados",
+      "country": "Spain",
+      "date": "2024-01-05T09:40:39.492Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "41.769049546828086",
+        "lng": "-3.4936523437500004"
+      },
+      "id": 98443230
+    },
+    {
+      "cityName": "Moros",
+      "country": "Spain",
+      "date": "2024-01-05T10:31:08.047Z",
+      "emoji": "🇪🇸",
+      "notes": "fss",
+      "position": {
+        "lat": "41.390798977461344",
+        "lng": "-1.8457031250000002"
+      },
+      "id": 98443231
+    },
+    {
+      "cityName": "Berzocana",
+      "country": "Spain",
+      "date": "2024-01-05T10:31:14.818Z",
+      "emoji": "🇪🇸",
+      "notes": "fsfs",
+      "position": {
+        "lat": "39.44862464738938",
+        "lng": "-5.449218750000001"
+      },
+      "id": 98443232
+    },
+    {
+      "cityName": "San Roque de Riomiera",
+      "country": "Spain",
+      "date": "2024-01-05T10:52:28.108Z",
+      "emoji": "🇪🇸",
+      "notes": "sf",
+      "position": {
+        "lat": "43.22782084085934",
+        "lng": "-3.7133789062500004"
+      },
+      "id": 98443233
+    }
+  ]
 }
